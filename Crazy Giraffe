@@ -1,0 +1,8 @@
+{
+    "project": "Crazy Giraffe",
+    "policies": [
+        "policy1",
+        "policy2",
+        "policy3"
+    ]
+}
